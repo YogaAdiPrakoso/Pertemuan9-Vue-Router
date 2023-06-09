@@ -1,4 +1,4 @@
-# mufti-todo
+# yoga-todo
 
 ## Project setup
 ```
